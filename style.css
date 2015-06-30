@@ -61,3 +61,12 @@ td.separator{
 	width: 100%;
 	padding-top: 10px;
 }
+table#marquee img{
+	width: 100%;
+}
+td.column.sixty{
+	width: 60%;
+}
+td.column.fourty{
+	width: 40%;
+}
