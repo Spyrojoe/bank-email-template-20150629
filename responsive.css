@@ -1,0 +1,5 @@
+@media screen only and (max-width: 580px){
+	table.wrap{
+		width: 100% !important;
+	}
+}
